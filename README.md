@@ -7,6 +7,7 @@
 ---
 
 A [Docker](https://www.docker.com) image to run a dedicated server for [Battlefield: Bad Company 2](https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2) using the [Project Rome modding platform](https://veniceunleashed.net/project-rome) and the [BF:BC2 MASE Emulated Server](https://sourceforge.net/projects/battlefieldbadcompany2mase/).
+It's broadly based on [this forum post](https://forums.veniceunleashed.net/viewtopic.php?p=60#p60).
 
 ## Usage
 

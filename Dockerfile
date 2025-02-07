@@ -1,4 +1,3 @@
-# broadly based on https://forums.veniceunleashed.net/viewtopic.php?p=60#p60
 FROM fragsoc/steamcmd-wine-xvfb
 ARG UID=999
 ARG GID=999

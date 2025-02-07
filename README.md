@@ -6,7 +6,7 @@
 
 ---
 
-A [Docker](https://www.docker.com) image to run a dedicated server for [Battlefield: Bad Company 2](https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2) using the [Project Rome modding platform](https://veniceunleashed.net/project-rome).
+A [Docker](https://www.docker.com) image to run a dedicated server for [Battlefield: Bad Company 2](https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2) using the [Project Rome modding platform](https://veniceunleashed.net/project-rome) and the [BF:BC2 MASE Emulated Server](https://sourceforge.net/projects/battlefieldbadcompany2mase/).
 
 ## Usage
 
@@ -25,5 +25,6 @@ You can override the server configuration file located at `/battlefield/server/I
 The files in this repo are licensed under the AGPL 3 (or a later).
 
 Battlefield: Bad Company 2 is proprietary software licensed by Electronic Arts.
+Battlefield Bad Company 2 MASE is provided by its respective developers.
 Project Rome is a proprietary modding platform provided by its respective developers.
 No credit is taken for the software in this image.
